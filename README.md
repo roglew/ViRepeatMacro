@@ -10,12 +10,12 @@ Installation
 Click the "Download zip" button at the top. Extract the zip file, and copy the folder into your <Sublime Folder>/Packages/ folder. If you have git, you can do:
 
 Linux:
-	cd ~/.config/sublime-text-2/Packages
-	git clone git@github.com:roglew/ViRepeatMacro.git
+    cd ~/.config/sublime-text-2/Packages
+    git clone git@github.com:roglew/ViRepeatMacro.git
 
 Mac/OSX:
-	cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
-	git clone git@github.com:roglew/ViRepeatMacro.git
+    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+    git clone git@github.com:roglew/ViRepeatMacro.git
 
 How to Use
 ----------
