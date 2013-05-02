@@ -1,0 +1,7 @@
+[
+	{ "keys": ["shift+space"], "command": "vi_repeat_last_macro",	"context":
+		[
+			{ "key": "setting.command_mode"}
+		]
+	}
+]
